@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Théorème des Innommables (⧉ / ⧉ₛ)"
+authors:
+  - family-names: "Garidel"
+    given-names: "Jérôme"
+    affiliation: "Recherche indépendante"
+message: "Si vous utilisez ce travail, merci de le citer ainsi."
+license: "CC BY-NC-SA 4.0"
+repository-code: "⧉/⧉ₛ méthodologie épistémologique"
+version: "1.0"
+date-released: "2025-12-13"
+preferred-citation:
+  type: "misc"
+  bibtex: |
+    @misc{garidel2025innommables,
+      author = {Garidel, Jérôme},
+      title = {Théorème des Innommables (⧉ / ⧉ₛ)},
+      year = {2025},
+      month = {12},
+      day = {13},
+      address = {Marseille, France},
+      license = {CC BY-NC-SA 4.0},
+      note = {INPI e-Soleau n°DSO2025030113 (dépôt 17 décembre 2025)}
+    }
