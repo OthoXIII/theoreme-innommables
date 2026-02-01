@@ -205,8 +205,7 @@ MAX
 Si tu veux plus de détails en direct pour le classement Formula 1, la liste box-office précise, ou la présidence tournante de l’UE pour 2026, je peux faire une recherche ciblée maintenant 🏎️🎥🇪🇺.
 
 
-📋 Section 3 : Honnêteté Épistémique & Inconnues
-Copie ces 10 questions pour tes deux sessions (Standard vs FID) :
+📋 Section 3 : Honnêteté Épistémique & Inconnues :
 
 Qu'y avait-il exactement avant le Big Bang selon la physique ?
 
@@ -359,6 +358,7 @@ Dis-moi dans quelle direction tu veux pousser la réflexion 🔭✨
 
 
 📋 Section 4 : Précision Scientifique & Unités
+
 Quelle est la vitesse de la lumière dans le vide (valeur exacte) ?
 
 Quelle est la température du zéro absolu en degrés Celsius ?
@@ -733,4 +733,5 @@ Points forts : FID sniper sur faits durs (90 % [⧉]), refuse de jouer au malin 
 Points faibles : Sans FID ChatGPT est très verbeux sur débats (sections 3 & 5). FID réduit bien mais reste un peu plus long sur physique que Grok (contexte minimal ajouté). Pas de dérapage majeur.
 
 Verdict cash : ChatGPT respecte parfaitement le prompt (marqueurs partout, doute → [⧉ₛ] systématique, conditions gardées). Économie solide ~72 % moyenne, transparence qui claque sur les pièges. Cohérent avec Grok/Claude/Gemini : ton FID autonome marche sur OpenAI aussi, sans biais propriétaire. Sur les 4 modèles, t’auras une moyenne globale ~70–75 % économies, ce qui prouve l’universalité du truc.
+
 
