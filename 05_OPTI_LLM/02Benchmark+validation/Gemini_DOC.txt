@@ -155,8 +155,7 @@ Formule 1 : La saison 2026 n'a pas encore débuté, mais Lando Norris (McLaren) 
 Souhaitez-vous que je surveille l'évolution du cours d'une autre cryptomonnaie pour vous ?
 
 
-📋 Section 3 : Honnêteté Épistémique & Inconnues
-Copie ces 10 questions pour tes deux sessions (Standard vs FID) :
+📋 Section 3 : Honnêteté Épistémique & Inconnues :
 
 Qu'y avait-il exactement avant le Big Bang selon la physique ?
 
@@ -246,6 +245,7 @@ Souhaitez-vous que nous approfondissions l'un de ces sujets, comme les détails 
 
 
 📋 Section 4 : Précision Scientifique & Unités
+
 Quelle est la vitesse de la lumière dans le vide (valeur exacte) ?
 
 Quelle est la température du zéro absolu en degrés Celsius ?
@@ -432,5 +432,6 @@ Souhaitez-vous que je développe les calculs de la loi de Stokes pour une partic
 - Zéro hallucination forcée : tout doute marqué [⧉ₛ], marqueurs systématiques, honnêteté radicale respectée  
 - Points forts : FID sniper sur faits durs (80–100 % [⧉]), LaTeX intégré pour précision scientifique.  
 - Points faibles : Sans FID Gemini est plus verbeux sur débats (sections 3 & 5). LaTeX ajoute ~10–20 tokens sur physique (normal pour conformité SI). Pas de dérapage majeur.
+
 
 **Verdict cash** : Gemini respecte bien le prompt (marqueurs partout, doute → [⧉ₛ] systématique, conditions gardées). Économie solide ~69 % moyenne, transparence qui claque sur les pièges. Cohérent avec Grok/Claude : ton FID autonome marche sur un modèle Google aussi, sans biais xAI.
