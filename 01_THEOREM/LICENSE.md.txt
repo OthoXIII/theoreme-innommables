@@ -1,0 +1,85 @@
+# ⚖️ LICENSE - Theorem & Matrix of the Unnamables
+
+**© 2025-2026 Jérôme Garidel**
+
+### 🏛️ Official INPI Deposit References (e-Soleau):
+1. **The Theorem of the Unnamables (⧉ / ⧉ₛ):** DSO2025030113  
+2. **The Unnamables Calculation Matrix (9x9x9):** DSO2026001939  
+
+---
+
+## 📜 Scope of Protection
+The works contained in this repository constitute an indivisible research unit. Protection applies to:
+* The theoretical framework of the **Theorem of the Unnamables** (distinction ⧉ / ⧉ₛ).
+* The technical structure of the **Unnamables Calculation Matrix (9x9x9)**.
+* The **Universal Constants Indexes** (indexing and sorting sheets).
+* The **Reverse-Engineering by Xₛ differential** methodology.
+* LLM optimization schemes and pipelines.
+
+---
+
+## 🔑 International License
+This work is published under:  
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+### 🔓 You are authorized to:
+* **Share** — Copy and redistribute the material in any medium or format.
+* **Adapt** — Remix, transform, and build upon the material.
+
+### ⚠️ Under the following terms:
+* **Attribution (BY)** — You must give appropriate credit to the author (**Jérôme Garidel**), provide a link to the license and this repository, and indicate if changes were made.
+* **Non-Commercial (NC)** — You may not use the material for commercial purposes without prior written authorization from the author.
+* **Share-Alike (SA)** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original (CC BY-NC-SA 4.0).
+
+---
+
+## 📝 Note of Technical Rigor
+The methodological framework and associated calculation tools are protected by the national deposits cited above. Any use not complying with the terms of this license, including unauthorized commercial exploitation or failure to provide credit, is subject to legal action under Intellectual Property laws.
+
+The full license text is available here:  
+[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
+
+**VF**
+
+# ⚖️ LICENSE - Théorème & Matrice des Innommables
+
+**© 2025-2026 Jérôme Garidel**
+
+### 🏛️ Références de Dépôts Officiels INPI (e-Soleau) :
+1. **Le Théorème des Innommables (⧉ / ⧉ₛ) :** DSO2025030113  
+2. **La Matrice des Innommables (9x9x9) :** DSO2026001939  
+
+---
+
+## 📜 Portée de la Protection
+L'ensemble des travaux contenus dans ce dépôt constitue une unité de recherche indivisible. La protection s'applique à :
+* Le cadre théorique du **Théoreme des Innommables** (distinction ⧉ / ⧉ₛ).
+* La structure technique de la **Mesure de calcul matrice des innommables (9x9x9)**.
+* Les **Index de Constantes Universelles** (fiches d'indexation et de tri).
+* La méthodologie de **Rétro-ingénierie par différentiel de Xₛ**.
+* Les schémas d'optimisation et pipelines pour modèles de langage (LLM).
+
+---
+
+## 🔑 Licence Internationale
+Ce travail est publié sous la licence :  
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+### 🔓 Vous êtes autorisé à :
+* **Partager** — Copier et redistribuer le matériel sous n'importe quel support ou format.
+* **Adapter** — Remixer, transformer et construire à partir de ce matériel.
+
+### ⚠️ Selon les conditions suivantes :
+* **Attribution (BY)** — Vous devez créditer l'auteur (**Jérôme Garidel**), intégrer un lien vers la licence et ce dépôt, et indiquer si des modifications ont été effectuées.
+* **Pas d’Utilisation Commerciale (NC)** — Vous ne pouvez pas utiliser ce matériel à des fins commerciales sans une autorisation écrite préalable de l'auteur.
+* **Partage dans les Mêmes Conditions (SA)** — Si vous modifiez ou construisez à partir de ce matériel, vous devez diffuser vos contributions sous la même licence que l'original (CC BY-NC-SA 4.0).
+
+---
+
+## 📝 Note de Rigueur Technique
+Le cadre méthodologique et les outils de calcul associés sont protégés par les dépôts nationaux cités en en-tête. Toute utilisation non conforme aux termes de cette licence, notamment l'exploitation commerciale non autorisée ou l'omission de crédit, est passible de poursuites au titre de la propriété intellectuelle.
+
+Le texte complet de la licence est disponible ici :  
+[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)

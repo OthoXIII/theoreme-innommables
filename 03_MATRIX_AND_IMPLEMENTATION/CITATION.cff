@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this paradigm or these scripts, please cite them as follows."
+authors:
+  - family-names: Garidel
+    given-names: Jérôme
+    email: JeromeGaridel@outlook.fr
+title: "The Matrix of the Unnameable: Geometry of the 9x9x9 Tensor"
+version: 1.0.0
+date-released: 2026-01-18
+identifiers:
+  - type: other
+    value: "INPI DSO2026001939"
+    description: "Official French National Intellectual Property Deposit"
+repository-code: "https://github.com/your-repository" # À compléter si tu le publies sur GitHub
+license: CC-BY-NC-SA-4.0
+keywords:
+  - Determinism
+  - 3-6-9 Matrix
+  - Xs Differential
+  - Reverse Engineering
+  - 9x9x9 Tensor

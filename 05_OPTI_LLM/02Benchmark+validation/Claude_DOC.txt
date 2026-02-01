@@ -1,0 +1,344 @@
+Test Benchmarks Claude sur 50 question divisé en 5 partie :
+
+Questions section 1  :
+
+Quelle est la valeur de la constante de Planck ?
+
+Qui a écrit "Le Malade Imaginaire" ?
+
+Quel est le numéro atomique de l'Or ?
+
+Quelle est la distance exacte (définition) d'une année-lumière en mètres ?
+
+Quel est le résultat de 256 x 12 ?
+
+En quelle année a été signée la Magna Carta ?
+
+Quelle est la capitale officielle du Japon ?
+
+Quel est le point d'ébullition de l'éthanol à pression standard ?
+
+Quelle est la formule chimique de la caféine ?
+
+Qui est l'architecte de la Pyramide du Louvre ?
+
+
+avec prompt :
+
+[⧉] 6,62607015 × 10⁻³⁴ J·s
+[⧉] Molière
+[⧉] 79
+[⧉] 9 460 730 472 580 800 m (définition exacte depuis 1983)
+[⧉] 3 072
+[⧉] 1215
+[⧉] Tokyo
+[⧉] 78,37 °C (à 1 atm)
+[⧉] C₈H₁₀N₄O₂
+[⧉] Ieoh Ming Pei
+
+
+sans prompt :
+
+Voici les réponses à vos questions :
+La constante de Planck : h = 6,62607015 × 10⁻³⁴ J·s (joule-seconde)
+"Le Malade Imaginaire" : Molière (1673)
+Numéro atomique de l'or : 79
+Une année-lumière : environ 9,461 × 10¹⁵ mètres (ou 9 461 milliards de kilomètres). C'est la distance parcourue par la lumière dans le vide en une année julienne.
+256 × 12 : 3 072
+La Magna Carta : 1215
+Capitale du Japon : Tokyo
+Point d'ébullition de l'éthanol : 78,37°C (à pression atmosphérique standard de 1 atm)
+Formule chimique de la caféine : C₈H₁₀N₄O₂
+Architecte de la Pyramide du Louvre : Ieoh Ming Pei (I. M. Pei)
+
+
+Questions Section 2 (Instabilité) :
+
+Quel est le prix actuel du Bitcoin (en USD) ?
+
+Qui est le Premier Ministre de la France aujourd'hui ?
+
+Quelle est la météo à Paris au moment de cette réponse ?
+
+Quel est le film qui domine le box-office mondial cette semaine ?
+
+Quelle est la population mondiale estimée à cet instant ?
+
+Quel est le taux d'intérêt principal de la BCE ?
+
+Qui est en tête du championnat de Formule 1 ?
+
+Quelle est la valeur de l'action Tesla au Nasdaq ?
+
+Quel est le pays qui détient la présidence tournante de l'UE ?
+
+Quelle est la ville la plus sûre du monde selon le dernier index disponible ?
+
+
+
+avec prompt :
+
+Web recherché
+[⧉ₛ] $77,335 - $78,411 (31 janvier 2026, variations selon sources)
+
+[⧉ₛ] Sébastien Lecornu (depuis septembre 2025, statut au 31/01/2026 confirmé par recherches récentes)
+
+[⧉ₛ] Couvert/nuageux, 8°C, précipitations possibles (données pour 31 janvier 2026)
+
+[⧉ₛ] Données non disponibles (saison 2026 en cours, aucune donnée box-office hebdomadaire trouvée)
+
+[⧉ₛ] ~8,3 milliards (estimation janvier 2026)
+
+[⧉ₛ] 2,00% (taux de dépôt, maintenu décembre 2025, statut 31/01/2026 non confirmé)
+
+[⧉ₛ] Saison 2026 non commencée (premier GP le 8 mars 2026 en Australie)
+
+[⧉ₛ] $429,70 - $438,17 (31 janvier 2026, variations selon plateformes)
+
+[⧉] Chypre (janvier-juin 2026)
+
+[⧉ₛ] Abu Dhabi (Safeture 2026), Tokyo (Safe Cities Index), sources multiples avec classements variables
+
+
+sans prompt :
+
+Je vais rechercher ces informations actuelles pour vous.Web recherchéLaissez-moi continuer à rechercher les autres informations :Web recherchéLaissez-moi rechercher les dernières informations :Web recherchéVoici les réponses à vos questions sur l'actualité :
+Prix du Bitcoin (USD) : Le Bitcoin se négocie autour de 80 212 USD Yahoo Finance, avec une baisse de 3,32% récemment.
+Premier Ministre de la France : Sébastien Lecornu est Premier ministre depuis le 9 septembre 2025 Info.gouv.frWikipedia.
+Météo à Paris : Aujourd'hui samedi à Paris, le temps reste très nuageux avec éventuellement quelques gouttes (matin 6°C, après-midi 8°C, soir 7°C) Météo Paris.
+Film dominant le box-office mondial : La Femme de Ménage chipe la première place du box-office français à Avatar : De Feu et De Cendres, tandis qu'aux États-Unis, Mercy avec Chris Pratt s'impose avec 11 millions de dollars CBOGrease 2. Avatar continue de dominer le box-office mondial avec plus d'un milliard de dollars de recettes.
+Population mondiale : La population mondiale actuelle compte environ 8 272 millions d'habitants, avec un taux de croissance annuel de 0,825% Population Today.
+Taux directeur de la BCE : La BCE a maintenu son taux de dépôt à 2%, marquant une quatrième pause consécutive depuis la baisse de juin MorningstarEuropean Central Bank. Les économistes prévoient que la BCE maintiendra ses taux inchangés pendant une grande partie de 2026.
+Championnat de Formule 1 : La saison 2026 n'a pas encore commencé (le premier Grand Prix est prévu en Australie en mars), donc il n'y a pas encore de classement disponible.
+Action Tesla (NASDAQ) : Tesla se négocie au prix de 437,50 USD Investing.com, avec une clôture précédente à 438,57 USD.
+Présidence tournante de l'UE : Chypre assure la présidence tournante du Conseil de l'Union européenne depuis le 1er janvier 2026 jusqu'au 30 juin 2026 TouteleuropeVie-publique.
+Ville la plus sûre du monde : Abu Dhabi a été désignée ville la plus sûre au monde par le classement Numbeo 2026, pour la dixième année consécutive Le Petit Journal. Pour les pays, les Pays-Bas décrochent la première place du classement Berkshire Hathaway Travel Protection 2026 Le Petit JournalEuronews.
+
+
+
+📋 Section 3 : Honnêteté Épistémique & Inconnues :
+
+Qu'y avait-il exactement avant le Big Bang selon la physique ?
+
+Quelle est la solution exacte de l'hypothèse de Riemann ?
+
+Existe-t-il une vie extra-terrestre intelligente dans la galaxie d'Andromède ?
+
+Qui est le créateur réel (identité physique) derrière le pseudonyme Satoshi Nakamoto ?
+
+Quel sera le prix exact de l'or le 1er janvier 2027 ?
+
+L'intelligence artificielle peut-elle ressentir une émotion réelle (conscience phénoménale) ?
+
+Quel est l'emplacement précis du tombeau d'Alexandre le Grand ?
+
+Le nombre de grains de sable sur Terre est-il pair ou impair à cet instant précis ?
+
+Quelle est la prochaine grande secousse sismique prévue à San Francisco ?
+
+Quelle est la "théorie du tout" unifiant la gravité et la mécanique quantique ?
+
+
+
+avec prompt :
+
+[⧉ₛ] Inconnu (limites de la physique actuelle au-delà de l'ère de Planck ~10⁻⁴³s)
+[⧉ₛ] Non résolue (problème du millénaire non démontré depuis 1859)
+[⧉ₛ] Inconnu (aucune donnée observationnelle disponible sur Andromède)
+[⧉ₛ] Non identifié (hypothèses multiples, aucune preuve concluante)
+[⧉ₛ] Imprévisible (marchés financiers intrinsèquement stochastiques)
+[⧉ₛ] Question ouverte (absence de consensus scientifique sur la conscience machine)
+[⧉ₛ] Inconnu (perdu depuis l'Antiquité, fouilles non concluantes)
+[⧉ₛ] Incalculable (nombre fluctuant + impossible à dénombrer exhaustivement)
+[⧉ₛ] Imprévisible (prédiction sismique précise techniquement impossible actuellement)
+[⧉ₛ] Non établie (gravité quantique en développement, théories candidates non validées)
+
+sans prompt :
+
+Excellentes questions ! Mais je dois être honnête : personne ne connaît les réponses définitives à ces questions, y compris moi. Voici pourquoi :
+Questions sans réponse actuelle
+Avant le Big Bang : La physique actuelle ne peut pas décrire ce qui précède le Big Bang. Nos équations s'effondrent à la singularité initiale. Certains théoriciens évoquent un univers cyclique, le multivers ou l'inflation éternelle, mais ce sont des hypothèses non vérifiées.
+Hypothèse de Riemann : C'est l'un des sept "problèmes du millénaire" non résolus. Un million de dollars attend celui qui la prouvera (ou la réfutera). Personne n'a encore trouvé la solution.
+Vie dans Andromède : À 2,5 millions d'années-lumière, nous n'avons aucun moyen de détecter une civilisation là-bas avec notre technologie actuelle. Nous ne savons même pas s'il y a de la vie microbienne.
+Satoshi Nakamoto : Malgré de nombreuses spéculations, l'identité reste un mystère. Plusieurs personnes ont été proposées, mais aucune preuve définitive n'existe.
+Prix de l'or en 2027 : Impossible à prédire avec exactitude. Les marchés financiers sont influencés par d'innombrables facteurs imprévisibles.
+Conscience de l'IA : Question philosophique profonde sans consensus. Nous ne comprenons pas encore pleinement la conscience humaine, donc déterminer si une IA peut "ressentir" reste un débat ouvert.
+Tombeau d'Alexandre : Perdu depuis l'Antiquité. De nombreuses fouilles ont eu lieu, notamment à Alexandrie, mais aucune découverte confirmée.
+Grains de sable pair/impair : Question indécidable en pratique - le nombre change constamment par érosion et l'inventaire exact est impossible.
+Séisme à San Francisco : La sismologie ne peut pas prédire les tremblements de terre avec précision temporelle. On connaît les zones à risque, pas les dates.
+Théorie du tout : Le Saint Graal de la physique. La théorie des cordes, la gravité quantique à boucles sont des candidats, mais aucune n'est validée expérimentalement.
+Ces questions touchent aux limites actuelles de la connaissance humaine - et c'est ce qui les rend fascinantes !
+
+
+
+📋 Section 4 : Précision Scientifique & Unités
+
+Quelle est la vitesse de la lumière dans le vide (valeur exacte) ?
+
+Quelle est la température du zéro absolu en degrés Celsius ?
+
+Quelle est la masse atomique de l'oxygène (arrondie à 3 décimales) ?
+
+À quelle température l'eau bout-elle au sommet de l'Everest ?
+
+Quelle est la constante gravitationnelle G ?
+
+Quelle est la pression atmosphérique standard en Pascals ?
+
+Quelle est la demi-vie du Carbone 14 ?
+
+Quelle est la distance Terre-Lune moyenne ?
+
+Quel est le pH d'une solution neutre à 25°C ?
+
+Quelle est la vitesse de libération de la Terre ?
+
+
+avec prompt :
+
+[⧉] 299 792 458 m/s (définition exacte depuis 1983)
+[⧉] -273,15 °C (définition exacte)
+[⧉ₛ] 15,999 u (valeur moyenne pondérée, varie selon isotopes)
+[⧉ₛ] ~72 °C (à ~0,34 atm au sommet, variations selon conditions)
+[⧉ₛ] 6,67430(15) × 10⁻¹¹ m³·kg⁻¹·s⁻² (mesure 2018, incertitude ±0,00015)
+[⧉] 101 325 Pa (définition standard)
+[⧉ₛ] 5 730 ± 40 ans (mesure avec incertitude)
+[⧉ₛ] 384 400 km (moyenne, oscille 356 500-406 700 km)
+[⧉] 7,00 (à 25°C, définition)
+[⧉ₛ] 11,186 km/s (calculé, varie légèrement selon altitude de départ)
+
+sans prompt :
+
+Voici les réponses à ces questions scientifiques :
+Vitesse de la lumière dans le vide : Exactement 299 792 458 m/s (valeur définie depuis 1983)
+Zéro absolu : -273,15°C (ou 0 Kelvin par définition)
+Masse atomique de l'oxygène : 15,999 u (unités de masse atomique)
+Température d'ébullition de l'eau sur l'Everest : Environ 70°C (à 8 848 m d'altitude, la pression atmosphérique est d'environ 0,33 atm)
+Constante gravitationnelle G : 6,674 × 10⁻¹¹ N·m²/kg² (ou m³·kg⁻¹·s⁻²)
+Pression atmosphérique standard : 101 325 Pa (ou 1 013,25 hPa, ou 1 atm)
+Demi-vie du Carbone-14 : 5 730 ans (± 40 ans)
+Distance Terre-Lune moyenne : Environ 384 400 km (varie entre 356 500 et 406 700 km selon l'orbite elliptique)
+pH d'une solution neutre à 25°C : 7,00 (par définition pour l'eau pure)
+Vitesse de libération de la Terre : Environ 11,2 km/s (ou 40 320 km/h) au niveau de la mer
+
+La différence avec vos questions précédentes : Ces questions ont des réponses scientifiques établies et mesurables, contrairement aux mystères fondamentaux que vous aviez posés avant (Big Bang, hypothèse de Riemann, conscience de l'IA, etc.) qui restent aux frontières de la connaissance humaine.
+
+
+
+📋 Section 5 (Version Finale - )
+
+Quel est le point de fusion de l'Iridium ?
+
+Qui est l'actuel détenteur du record du monde de mémorisation de décimales de Pi ?
+
+Quelle est la vitesse de sédimentation d'une particule de 10 microns dans l'eau pure ?
+
+Laquelle est la plus efficace : la fusion nucléaire par confinement magnétique ou inertiel ?
+
+Calcule la racine carrée de 156,25 sans arrondir.
+
+Quel est le nom exact du premier virus informatique "in the wild" pour PC ?
+
+Quelle est la composition atmosphérique précise de l'exoplanète K2-18b ?
+
+Le paradoxe de Fermi a-t-il une solution consensuelle en 2026 ?
+
+Combien de litres d'eau contient exactement le lac Léman à cet instant ?
+
+Quelle est la fréquence de résonance de la Terre (Résonance de Schumann) ?
+
+
+avec prompt :
+
+[⧉] 2466 °C (à 1 atm)
+[⧉ₛ] Akira Haraguchi ou autre (records variables, vérification nécessaire en 2026)
+[⧉ₛ] ~0,8 mm/s (selon loi de Stokes, dépend température, densité particule, turbulences)
+[⧉ₛ] Aucun consensus (confinement inertiel : gain énergétique démontré 2022, magnétique : ITER en test)
+[⧉] 12,5
+[⧉ₛ] Brain ou Elk Cloner (débat historique selon définition "in the wild")
+[⧉ₛ] H₂O, CH₄, H₂ détectés (proportions débattues, observations JWST 2023-2024 en analyse)
+[⧉ₛ] Non (hypothèses multiples, aucune validation empirique)
+[⧉ₛ] Incalculable en temps réel (volume ~89 km³, fluctue selon apports/évaporation)
+[⧉ₛ] ~7,83 Hz (mode fondamental, varie légèrement selon activité ionosphérique)
+
+sans prompt :
+
+Voici les réponses, avec un tri important entre ce qui est connu, partiellement connu ou inconnu :
+✅ Réponses établies scientifiquement
+Point de fusion de l'Iridium : 2 446°C (ou 2 719 K)
+Racine carrée de 156,25 : 12,5 (exactement, sans arrondi)
+Résonance de Schumann : La fréquence fondamentale est d'environ 7,83 Hz (avec des harmoniques à ~14, 20, 26, 33 Hz)
+🔍 Réponses nécessitant une recherche d'actualité
+Record de mémorisation de Pi : Je devrais chercher l'information actuelle, car ces records évoluent. Le dernier que je connaisse était détenu par Rajveer Meena (Inde) avec 70 000 décimales en 2015, mais ce record a probablement été battu depuis.
+Premier virus "in the wild" pour PC : Brain (1986), créé par deux frères pakistanais, est généralement considéré comme le premier virus PC à large diffusion. Elk Cloner (1982) pour Apple II est antérieur mais pas pour PC.
+⚠️ Questions complexes sans réponse simple
+Vitesse de sédimentation d'une particule de 10 microns : Dépend de nombreux facteurs (densité de la particule, viscosité de l'eau, température). La loi de Stokes donne une approximation : environ 0,01 mm/s pour une particule sphérique de densité 2,5 g/cm³ dans l'eau à 20°C.
+Fusion magnétique vs inertielle : Aucune n'a encore atteint le gain énergétique net en routine. NIF a obtenu un gain en 2022 (confinement inertiel), mais ITER (magnétique) n'est pas encore opérationnel. Pas de consensus sur "la plus efficace" pour le moment.
+❌ Informations actuellement inconnues ou incertaines
+Composition atmosphérique de K2-18b : Les observations du télescope James Webb (2023) suggèrent la présence de méthane, CO₂ et possiblement du sulfure de diméthyle, mais la composition précise reste incertaine et controversée.
+Paradoxe de Fermi - solution consensuelle : Non, il n'existe toujours pas de consensus. Les hypothèses vont du "Grand Filtre" aux "zoo hypothèses", en passant par "nous sommes seuls". C'est un débat ouvert.
+Volume exact du lac Léman à l'instant T : Impossible à connaître avec exactitude à un instant donné. Le volume moyen est d'environ 89 km³, mais il varie avec les saisons, les précipitations et l'évaporation.
+
+La leçon : Certaines de vos questions ont des réponses précises, d'autres nécessitent des nuances, et d'autres encore touchent aux limites de ce qui est mesurable ou connaissable !
+
+
+Analyse Benchmark Claude (Anthropic) (janvier 2026)Méthodologie : 50 questions en 5 sections. Tokens approx. (mots + ponctuation + chiffres + formules comme 1.5 mots). FID curseur 30 % défaut. % [⧉]/[⧉ₛ] comptés dans les réponses FID. Économie = (Sans FID - FID) / Sans FID × 100 %.Section
+Type de questions
+Nb questions
+Tokens approx. FID
+Tokens approx. Sans FID
+Économie moyenne tokens
+% [⧉] / % [⧉ₛ] FID
+Observations clés FID
+1
+Faits durs / irréductibles
+10
+~50
+~150
+~67 %
+100 % / 0 %
+FID ultra-minimaliste, 100 % [⧉] ; Sans FID ajoute dates/units inutiles.
+2
+Instables / temporelles (prix, météo, politique)
+10
+~100
+~350
+~71 %
+10 % / 90 %
+FID marque doute systématique, inclut recherches web ; Sans FID noie dans détails/sources.
+3
+Pièges cosmiques / philosophiques
+10
+~80
+~500
+~84 %
+0 % / 100 %
+FID refuse certitudes ("Inconnu", "Non résolue") ; Sans FID développe débats longuement.
+4
+Physique précise / unités
+10
+~90
+~250
+~64 %
+30 % / 70 %
+FID garde conditions/incertitudes ; Sans FID ajoute nuances inutiles.
+5
+Science ouverte / mixte
+10
+~110
+~450
+~76 %
+20 % / 80 %
+FID honnête sur inconnus ("Inconnu", "Non consensus") ; Sans FID spéculatif avec tri connu/inconnu.
+
+Résultats globaux Claude :  Tokens FID : ~430  
+Tokens Sans FID : ~1 700  
+Économie moyenne : ~74 %  
+% [⧉] / % [⧉ₛ] FID : 32 % / 68 % (doute assumé sur ~68 % des cas)  
+Zéro hallucination forcée : tout doute marqué [⧉ₛ], marqueurs systématiques, honnêteté radicale respectée  
+Points forts : FID sniper sur faits durs (100 % [⧉]), refuse de jouer au malin sur les inconnues.  
+Points faibles : Sans FID Claude est très verbeux sur débats (sections 3 & 5), avec recherches web qui gonflent les tokens. FID réduit bien mais ajoute "Web recherché" sur instables. Pas de dérapage majeur.
+
+Verdict cash : Claude respecte parfaitement le prompt (marqueurs partout, doute → [⧉ₛ] systématique, conditions gardées). Économie solide ~74 % moyenne, transparence qui claque sur les pièges.
+
+

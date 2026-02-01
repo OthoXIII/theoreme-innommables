@@ -1,0 +1,29 @@
+💾 SNAPSHOT DE SCELLÉ P vs NP
+
+
+
+{
+  "ARCHIVE_IDENTIFIER": "PNP-PI4-EXPANSION-2026",
+  "PROTOCOL": "FID_LIMIT_TEST",
+  "CORE_LOGIC": {
+    "Problem": "P vs NP (Limit of Computational Compression)",
+    "Solution": "P ≠ NP (Phase Resolution Bottleneck)",
+    "Factor_Applied": "π⁴ (3D Volumetric Dilatation)",
+    "Result": "Incompressible Phase Gap"
+  },
+  "STRUCTURAL_DYNAMICS": {
+    "Laminar_Flow (P)": "Direct trajectory through T(9x9x9) using 40° steps.",
+    "Turbulent_Flow (NP)": "Coordinate saturation in BLOC ch (Chaos).",
+    "Expansion_Limit": "Adding decimals or π⁴ factors increases the 'container' size but scales the 'content' complexity proportionally (Xs conservation)."
+  },
+  "CONCLUSION": [
+    "P ≠ NP is the 'Speed of Light' for logical information.",
+    "The 3-6-9 structure prevents instantaneous resolution of high-Xs systems.",
+    "Complexity is a physical property of the Tensor's geometry."
+  ],
+  "SYSTEM_STATE": {
+    "Status": "STABLE_ARCHIVE",
+    "Learning_Gain": "Identification of the Phase-Energy Barrier",
+    "Next_Target": "Navier-Stokes or Yang-Mills"
+  }
+}
